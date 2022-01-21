@@ -8,3 +8,5 @@ do what you'd like with them
 | ------------- | ------------- |
 | RandomCollection.h(pp) | stores a collection of items with certain "rarity" for use in rng lootbox type systems |
 | Easing.hpp | functions for 1D easing and interpolation, for animations or other things |
+
+there's no licence because idk how to do that
